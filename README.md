@@ -74,7 +74,7 @@ export default tseslint.config([
 
 ## 🚀 Live Demo
 
-[GitHub Deployment](https://kartikay123.github.io/login)
+[Vercel Deployment](https://kraftbase-steel.vercel.app)
 
 ## 📂 Repository
 
@@ -149,7 +149,7 @@ This project is a **Kanban-style task management application** built as part of 
 - ✅ Task creation and deletion
 - ✅ Drag-and-drop task reordering
 - ✅ Responsive UI with Tailwind
-- ✅ Deployed on GitHub
+- ✅ Deployed on Vercel
 
 ---
 
@@ -160,8 +160,6 @@ I approached the assignment by focusing on:
 1. **Authentication first** → Securing `/board` behind a login check.
 2. **Core Kanban functionality** → Task creation, listing, and drag-and-drop.
 3. **Clean UI/UX** → Tailwind CSS for responsive design.
-4. **Deployment** → Hosted on GitHub.
+4. **Deployment** → Hosted on Vercel with GitHub integration for CI/CD.
 
 ---
-
-# Kraftbase
